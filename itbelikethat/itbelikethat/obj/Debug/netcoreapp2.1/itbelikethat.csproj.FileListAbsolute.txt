@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\itbelikethat\itbelikethat\bin\Debug\netcoreapp2.1\itbelikethat.deps.json
+C:\Users\opilane\source\repos\itbelikethat\itbelikethat\bin\Debug\netcoreapp2.1\itbelikethat.runtimeconfig.json
+C:\Users\opilane\source\repos\itbelikethat\itbelikethat\bin\Debug\netcoreapp2.1\itbelikethat.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\itbelikethat\itbelikethat\bin\Debug\netcoreapp2.1\itbelikethat.dll
+C:\Users\opilane\source\repos\itbelikethat\itbelikethat\bin\Debug\netcoreapp2.1\itbelikethat.pdb
+C:\Users\opilane\source\repos\itbelikethat\itbelikethat\obj\Debug\netcoreapp2.1\itbelikethat.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\itbelikethat\itbelikethat\obj\Debug\netcoreapp2.1\itbelikethat.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\itbelikethat\itbelikethat\obj\Debug\netcoreapp2.1\itbelikethat.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\itbelikethat\itbelikethat\obj\Debug\netcoreapp2.1\itbelikethat.AssemblyInfo.cs
+C:\Users\opilane\source\repos\itbelikethat\itbelikethat\obj\Debug\netcoreapp2.1\itbelikethat.dll
+C:\Users\opilane\source\repos\itbelikethat\itbelikethat\obj\Debug\netcoreapp2.1\itbelikethat.pdb
